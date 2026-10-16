@@ -1,0 +1,17 @@
+/* Variables del Sistema de Diseño - Módulo 4 */
+:root {
+  /* Colores */
+  --color-primario: #0f172a;
+  --color-acento: #2563eb;
+  --color-fondo: #f8fafc;
+  --color-texto: #1e293b;
+
+  /* Tipografías */
+  --fuente-titulos: 'Poppins', sans-serif;
+  --fuente-cuerpo: 'Inter', sans-serif;
+
+  /* Estilos de bordes y sombras */
+  --border-radius-base: 8px;
+  --sombra-card: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --max-width-contenedor: 1200px;
+}
